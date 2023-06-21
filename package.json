@@ -1,6 +1,6 @@
 {
   "name": "el-button-to-dropdown",
-  "version": "0.0.9", 
+  "version": "0.0.10", 
   "description": "基于element ui 2.x 的按钮转换插件 将按钮转换为el-dropdown",
   "license": "MIT",
   "main": "dist/button-to-dropdown.ssr.js",
