@@ -8,6 +8,10 @@
   "module": "dist/button-to-dropdown.esm.js",
   "unpkg": "dist/button-to-dropdown.min.js",
   "author": "Huang Yongyue <https://github.com/flyhyy>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flyhyy/button-to-dropdown"
+  },
   "files": [
     "dist/*",
     "src/**/*.vue",
