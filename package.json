@@ -18,6 +18,7 @@
     "README.md"
 
   ],
+  "keywords": ["element-ui", "dropdown", "el-dropdown", "el-button"],
   "sideEffects": false,
   "scripts": {
     "serve": "vue-cli-service serve dev/serve.js",
