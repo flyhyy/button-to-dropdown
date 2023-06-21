@@ -2,7 +2,7 @@
 
 ### Convert El-Button to more drop-down type button
 
->  Use
+#### Use
 
 ```js
     import ButtonToDropdown from 'el-button-to-dropdown'
