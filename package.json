@@ -16,7 +16,6 @@
     "dist/*",
     "src/**/*.vue",
     "README.md"
-
   ],
   "keywords": ["element-ui", "dropdown", "el-dropdown", "el-button"],
   "sideEffects": false,
